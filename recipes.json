@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "message": "Recipes retrieved successfully",
+  "data": [
+    {
+      "id": 1,
+      "title": "Tumis Kangkung Simpel",
+      "description": "Tumis kangkung sederhana yang cocok untuk anak kos.",
+      "ingredients": "1 ikat kangkung\n3 siung bawang putih\n5 siung bawang merah\n5 buah cabai rawit\n1 sdm saus tiram\nGaram secukupnya\nGula secukupnya\nAir secukupnya",
+      "steps": "1. Potong dan cuci bersih kangkung\n2. Iris tipis bawang merah, bawang putih, dan cabai\n3. Tumis bumbu hingga harum\n4. Masukkan kangkung, aduk rata\n5. Tambahkan saus tiram, garam, dan gula\n6. Tambahkan sedikit air\n7. Masak hingga kangkung layu\n8. Sajikan",
+      "prep_time": 10,
+      "cook_time": 5,
+      "type": "makanan",
+      "difficulty_level": "mudah",
+      "budget": 15000,
+      "favorites_count": 2,
+      "thumbnail": "http://168.231.119.165/storage/thumbnails/Vp2tzg30z1oz29qoPdDzrhblJ8Wmr48bMqPA3HSK.jpg",
+      "user": {
+        "id": 1,
+        "name": "Budi Santoso"
+      },
+      "category": {
+        "id": 1,
+        "name": "Nasi Goreng"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Nasi Goreng Telur",
+      "description": "Nasi goreng telur simpel untuk sarapan atau makan malam.",
+      "ingredients": "1 piring nasi putih\n1 butir telur\n2 siung bawang putih\n3 siung bawang merah\n1 sdm kecap manis\n1/2 sdt garam\n1/4 sdt merica bubuk\n2 sdm minyak goreng",
+      "steps": "1. Cincang bawang merah dan bawang putih\n2. Panaskan minyak, tumis bawang hingga harum\n3. Masukkan telur, orak-arik\n4. Masukkan nasi, aduk rata\n5. Tambahkan kecap, garam, dan merica\n6. Aduk hingga rata dan nasi panas\n7. Sajikan",
+      "prep_time": 5,
+      "cook_time": 10,
+      "type": "makanan",
+      "difficulty_level": "mudah",
+      "budget": 10000,
+      "favorites_count": 2,
+      "thumbnail": "http://168.231.119.165/storage/thumbnails/ndoNUAMmjV98WR0GeoZIfCoYBtDemHlBnMTg1aIv.jpg",
+      "user": {
+        "id": 2,
+        "name": "Ani Wijaya"
+      },
+      "category": {
+        "id": 2,
+        "name": "Jus"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Jus Alpukat",
+      "description": "Jus alpukat segar dengan susu kental manis.",
+      "ingredients": "1 buah alpukat matang\n2 sdm susu kental manis\n200 ml air es\n1 sdm gula pasir (opsional)\nEs batu secukupnya",
+      "steps": "1. Belah alpukat, buang bijinya\n2. Kerok daging alpukat\n3. Masukkan ke dalam blender\n4. Tambahkan susu kental manis, gula, dan air es\n5. Blender hingga halus\n6. Tuang ke dalam gelas\n7. Tambahkan es batu\n8. Sajikan",
+      "prep_time": 5,
+      "cook_time": 2,
+      "type": "minuman",
+      "difficulty_level": "mudah",
+      "budget": 20000,
+      "favorites_count": 1,
+      "thumbnail": "http://168.231.119.165/storage/thumbnails/E1BEobpYi15IormISf7necSk7Goo9p0XRiuT8ft1.jpg",
+      "user": {
+        "id": 3,
+        "name": "Doni Pratama"
+      },
+      "category": {
+        "id": 3,
+        "name": "Kopi/Cream"
+      }
+    }
+  ]
+}
